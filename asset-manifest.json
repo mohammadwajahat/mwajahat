@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.b83b5087.css",
+    "main.js": "/my-portfolio/static/js/main.6375dfae.js",
+    "static/media/RenovationWebsite.png": "/my-portfolio/static/media/RenovationWebsite.955a17faac1e341c869e.png",
+    "static/media/moonlightinsulatio.png": "/my-portfolio/static/media/moonlightinsulatio.5fc50f49ba7bdaa1ab05.png",
+    "static/media/RecruitmentStaffingAgency.png": "/my-portfolio/static/media/RecruitmentStaffingAgency.1d48e333816354693f55.png",
+    "static/media/promptplumbingltd.png": "/my-portfolio/static/media/promptplumbingltd.8f14f79c643c3667bb40.png",
+    "static/media/aicsimmigration.png": "/my-portfolio/static/media/aicsimmigration.c6529160d63c7f5621fc.png",
+    "static/media/ProfessionalsEntrepreneurAssociationOntario.png": "/my-portfolio/static/media/ProfessionalsEntrepreneurAssociationOntario.0a332a642e0248f3292e.png",
+    "static/media/Citysouthdental.png": "/my-portfolio/static/media/Citysouthdental.91d0ff2d9a85f2397311.png",
+    "static/media/Umselegal.png": "/my-portfolio/static/media/Umselegal.7da52f3b12d45307ed59.png",
+    "static/media/bestpricemovers.png": "/my-portfolio/static/media/bestpricemovers.7df005d695bce50ec1da.png",
+    "static/media/InternationalCurrencyTransferProvider.png": "/my-portfolio/static/media/InternationalCurrencyTransferProvider.dabe890a3d858b9126ea.png",
+    "static/media/oneshotmarketing.png": "/my-portfolio/static/media/oneshotmarketing.7b55ab118e201807d342.png",
+    "static/media/Blogging.png": "/my-portfolio/static/media/Blogging.d440a4b89a9bec97de2e.png",
+    "static/media/PoolBasket.png": "/my-portfolio/static/media/PoolBasket.7b540cc14ed7fb0569fe.png",
+    "static/media/BuyAndSell.png": "/my-portfolio/static/media/BuyAndSell.a512bb77106e629da575.png",
+    "static/media/cabwebsite.png": "/my-portfolio/static/media/cabwebsite.f1a7fe78aff0f0ee036e.png",
+    "static/media/WordPress.png": "/my-portfolio/static/media/WordPress.28e952745957120a3900.png",
+    "static/media/shopify.png": "/my-portfolio/static/media/shopify.2395eb77012eef328a7c.png",
+    "static/media/abbotscars.jpg": "/my-portfolio/static/media/abbotscars.9b96b0da82364617dc49.jpg",
+    "static/media/reacherscars.jpg": "/my-portfolio/static/media/reacherscars.3abe2045d38978585136.jpg",
+    "static/media/whatsapp.png": "/my-portfolio/static/media/whatsapp.7193ebbaff003f3946b0.png",
+    "static/media/react.png": "/my-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/my-portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/muhammadwajahat.png": "/my-portfolio/static/media/muhammadwajahat.67f5c7127d98b20ba43f.png",
+    "static/media/html.png": "/my-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/my-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/my-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/my-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.b83b5087.css.map": "/my-portfolio/static/css/main.b83b5087.css.map",
+    "main.6375dfae.js.map": "/my-portfolio/static/js/main.6375dfae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b83b5087.css",
+    "static/js/main.6375dfae.js"
+  ]
+}
