@@ -1,9 +1,7 @@
 import React, { useState } from 'react';
-import {FaBars, FaTimes, FaGithub, FaLinkedin, FaFacebook, FaYoutube} from 'react-icons/fa';
-import { HiOutlineMail } from 'react-icons/hi';
+import {FaBars, FaTimes, FaGithub, FaLinkedin, FaYoutube} from 'react-icons/fa';
 import {BsFillPersonLinesFill} from 'react-icons/bs'
 import Logo from '../assets/muhammadwajahat.png'
-// import { Link } from 'react-scroll';
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
